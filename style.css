@@ -50,6 +50,7 @@ header {
 }
 .block-2 .login{
 	margin-left: 20px;
+
 }
 .block-2 .login a{
 	display: block;
@@ -504,4 +505,8 @@ header {
 .content p{
 	border-bottom: 1px white dotted;
 	margin-bottom: 5px;
+}
+
+@media screen {
+	
 }
